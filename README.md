@@ -1,6 +1,6 @@
 # IoT-based-Pollution-Monitoring-System
 
-[Project_Report_SEM2 - GitCopy.docx](https://github.com/Aneesh-VS/IoT-based-Pollution-Monitoring-System/files/9970163/Project_Report_SEM2.-.GitCopy.docx)
+[Project_Report_SEM2_GitCopy.docx](https://github.com/Aneesh-VS/IoT-based-Pollution-Monitoring-System/files/9970667/Project_Report_SEM2_GitCopy.docx)
 
 In this project, MQ135 gas sensor and DHT 11 sensors are used to collect real-time pollution levels and using IOT the data is displayed on an Android App.
 
